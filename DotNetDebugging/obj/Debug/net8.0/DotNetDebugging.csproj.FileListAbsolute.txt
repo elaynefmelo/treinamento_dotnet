@@ -1,0 +1,15 @@
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.exe
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.deps.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\refint\DotNetDebugging.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\DotNetDebugging\obj\Debug\net8.0\ref\DotNetDebugging.dll
